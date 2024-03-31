@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Vadim Ustyuzhanin
     - name: Date of Birth
-      value: 14th March 1879
+      value: 17th February 2002
     - name: Languages
-      value: English, German
+      value: Russian, English
 
 - title: Education
   type: time_table
@@ -21,6 +21,7 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
+      score: 4.0  
     - title: Federal teaching diploma
       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
       year: 1900
