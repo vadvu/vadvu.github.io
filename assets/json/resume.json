@@ -113,6 +113,18 @@
       "awarder": "HSE",
       "url": "",
       "summary": "Winner of the competition 'Your Project' of the HSE in the field of 'Comparative Social Research'. I got an invitation to MA program thanks to this contest. "
+    },
+    {
+      "title": "Winner of the Competition of students and graduates 'Higher League'",
+      "date": "2022",
+      "awarder": "HSE",
+      "summary": "Winner on the 'Public policy' track"
+    },
+    {
+      "title": "High Professional Potential Program of the HSE University",
+      "date": "2022, 2023",
+      "awarder": "HSE",
+      "summary": "Program alumnus in the category 'New Researchers' from 2024 (participant in 2022-2023)"
     }
   ],
   "skills": [
@@ -123,6 +135,8 @@
       "keywords": [
         "dplyr, tidyr",
         "ggplot2",
+        "SjPlot, stargazer, texreg",
+        "Parallel processing ",
         "have my own packages"
       ]
     },
@@ -135,7 +149,31 @@
         "GLM (logistic, poisson, neg-bin etc)",
         "Fixed/Random-effects",
         "GAM",
-        "ML (random forests, boosting)"
+        "ML (random forests, boosting, clustering)",
+        "Time-series (ARIMA and add-ons)",
+        "Counterfactuals (Diff-in-Diff, Synthetic control)",
+        "Instrumental variables"
+      ]
+    },
+    {
+      "name": "Demography",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Mortality analysis",
+        "Mortality forecasting",
+        "Multistate analysis",
+        "Mortality inequality"
+      ]
+    },
+    {
+      "name": "Survival Analysis",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Parametric models (Webull, Exp, etc)",
+        "Semi-parametric (Cox regression)",
+        ""
       ]
     }
   ],
