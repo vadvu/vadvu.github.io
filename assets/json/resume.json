@@ -2,7 +2,7 @@
   "basics": {
     "name": "Vadim Ustyuzhanin",
     "image": "",
-    "email": "vvustiuzhanin@yandex.ru",
+    "email": "vadim.v.ustyuzhanin@gmail.com",
     "url": "https://vadvu.github.io",
     "location": {
       "address": "Myasnitskaya St, 20",
@@ -44,7 +44,7 @@
       "icon": "fa-solid fa-percent",
       "keywords": [
         "`Rare events` methods",
-        "Sensivity analysis",
+        "Sensitivity analysis",
         "Probabilistic forecasting",
         "Panel data methods"
       ]
@@ -152,7 +152,8 @@
         "ML (random forests, boosting, clustering)",
         "Time-series (ARIMA and add-ons)",
         "Counterfactuals (Diff-in-Diff, Synthetic control)",
-        "Instrumental variables"
+        "Instrumental variables",
+        "Matching"
       ]
     },
     {
@@ -162,7 +163,7 @@
       "keywords": [
         "Mortality/Fertility analysis",
         "Multistate approach",
-        "Population forecasting (deterministic/probabilistic models)"
+        "Population forecasting (deterministic/probabilistic)"
       ]
     },
     {
@@ -170,7 +171,7 @@
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Parametric models (Webull, Exp, etc)",
+        "Parametric models (Webull, Exp)",
         "Semi-parametric (Cox regression)",
         ""
       ]

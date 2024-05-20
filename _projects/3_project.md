@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Prosperity and revolutions
+title: Wealth and Rebellion
 description: My ongoing project on the link between income level and risks of revolutions
 img: assets/img/prosp_ong.png
 importance: 1
