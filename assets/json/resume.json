@@ -153,7 +153,8 @@
         "Time-series (ARIMA and add-ons)",
         "Counterfactuals (Diff-in-Diff, Synthetic control)",
         "Instrumental variables",
-        "Matching"
+        "Matching",
+        "Simulations"
       ]
     },
     {

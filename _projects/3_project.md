@@ -8,6 +8,11 @@ category: just research
 giscus_comments: false
 ---
 
+The preprint is available at this permanent [link](https://wp.hse.ru/data/2024/06/10/2115952879/92PS2024.pdf) or at [ResearchGate](http://dx.doi.org/10.13140/RG.2.2.25291.60966), [RePEc](https://econpapers.repec.org/RePEc:hig:wpaper:92/ps/2024).
+
+**Suggested Citation**:
+Ustyuzhanin, Vadim (2024). Wealth and Rebellion: A Dualistic Perspective on Income Level and Revolutions. HSE Working Paper, WP BRP Series: Political Science / PS, Available at ResearchGate: http://dx.doi.org/10.13140/RG.2.2.25291.60966
+
 ## Mini-Intro
 
 The intricate relationship between a nation’s wealth and its political stability has intrigued scholars for decades. Theories have ranged from the assumption that economic hardship spurs citizens to revolt and that countries with lower income are unstable, as posited by Davies (1962) and Przeworski and Limongi (1997) respectively, to the notion that prosperity leads to an increase of instability because of values’ modernization, that is shown by Inglehart and Welzel (2005), or provision of both the resources and the infrastructure necessary for effective organization and mobilization that McCarthy and Zald (1977) noted. In contrast, Huntington (1968) argues that, on the one hand, unmodernized societies with low economic complexity are not “mature” for revolution, while modernized wealth states are too stable and “revolution is thus an aspect of modernization”, so it “is most likely to occur in societies which have experienced some social and economic development” (1968, p. 265). Despite diametrically opposed theories, it is believed that the invisible hand of economics not only guides markets but also weaves the intricate tapestry of societal (in)stability.     
