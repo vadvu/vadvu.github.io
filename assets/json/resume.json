@@ -44,7 +44,7 @@
       "icon": "fa-solid fa-percent",
       "keywords": [
         "`Rare events` methods",
-        "Sensitivity analysis",
+        "Quasi-experimental designs",
         "Probabilistic forecasting",
         "Panel data methods"
       ]
@@ -125,6 +125,16 @@
       "date": "2022, 2023",
       "awarder": "HSE",
       "summary": "Program alumnus in the category 'New Researchers' from 2024 (participant in 2022-2023)"
+    },
+    {
+      "title": "Academic Achievement Scholarship",
+      "date": "2023, 2024",
+      "awarder": "HSE"
+    },
+    {
+      "title": "Acknowledgement from the Faculty of Social Sciences",
+      "date": "2023",
+      "awarder": "HSE"
     }
   ],
   "skills": [
@@ -135,7 +145,6 @@
       "keywords": [
         "dplyr, tidyr",
         "ggplot2",
-        "SjPlot, stargazer, texreg",
         "Parallel processing ",
         "have my own packages"
       ]
@@ -145,15 +154,11 @@
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "OLS",
-        "GLM (logistic, poisson, neg-bin)",
+        "OLS, GLM, GAM",
         "Fixed/Random-effects",
-        "GAM",
-        "ML (random forests, boosting, clustering)",
+        "ML (random forests, boosting, clustering etc)",
         "Time-series (ARIMA and add-ons)",
-        "Counterfactuals (Diff-in-Diff, Synthetic control)",
-        "Instrumental variables",
-        "Matching",
+        "Causal inference (instrumental variables, matching/weighting, DiD, RDD)",
         "Simulations"
       ]
     },
@@ -186,7 +191,7 @@
     },
     {
       "language": "English",
-      "fluency": "B2",
+      "fluency": "B2-C1",
       "icon": ""
     }
   ]
