@@ -72,7 +72,6 @@ linkedin_username: # your LinkedIn user name
 telegram_username: # your Telegram user name
 scholar_userid: 3Whq2swAAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
-whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: 0000-0003-3800-1108 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
@@ -81,8 +80,6 @@ lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 osf_id: # your OSF ID
 research_gate_profile: Vadim-Ustyuzhanin # your profile on ResearchGate
 scopus_id: 57305324000 # your profile on Scopus
-flickr_id: # your flickr id
-blogger_url: # your blogger URL
 work_url: https://www.hse.ru/en/staff/vvust # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
@@ -91,8 +88,6 @@ dblp_url: # your DBLP profile url
 stackoverflow_id: # your stackoverflow id
 kaggle_id: # your kaggle id
 lastfm_id: # your lastfm id
-spotify_id: # your spotify id
-pinterest_id: # your pinterest id
 unsplash_id: # your unsplash id
 instagram_id: # your instagram id
 facebook_id: # your facebook id

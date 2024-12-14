@@ -4,12 +4,6 @@
     "image": "",
     "email": "vadim.v.ustyuzhanin@gmail.com",
     "url": "https://vadvu.github.io",
-    "location": {
-      "address": "Myasnitskaya St, 20",
-      "postalCode": "101001",
-      "city": "Moscow",
-      "countryCode": "RU"
-    },
     "profiles": [
       {
         "network": "Research-Gate",
@@ -26,7 +20,7 @@
         "Revolutions",
         "Mass mobilization",
         "Modernization",
-        "Africa development"
+        "Development of Africa"
       ]
     },
     {
@@ -43,8 +37,8 @@
       "name": "Quantitative Methods",
       "icon": "fa-solid fa-percent",
       "keywords": [
+        "Quasi-experimental designs (especially in panel data context)",
         "`Rare events` methods",
-        "Quasi-experimental designs",
         "Probabilistic forecasting",
         "Panel data methods"
       ]
@@ -86,8 +80,7 @@
       "area": "Public Policy (in russian)",
       "studyType": "BA",
       "startDate": "2019",
-      "endDate": "2023",
-      "score": "8.67/10"
+      "endDate": "2023"
     },
     {
       "institution": "HSE University",
@@ -95,8 +88,7 @@
       "area": "Comparative Social Research (in english)",
       "studyType": "MA",
       "startDate": "2023",
-      "endDate": "present",
-      "score": "na"
+      "endDate": "present"
     }
   ],
   "awards": [
@@ -133,7 +125,7 @@
     },
     {
       "title": "Acknowledgement from the Faculty of Social Sciences",
-      "date": "2023",
+      "date": "2023, 2024",
       "awarder": "HSE"
     }
   ],
@@ -191,7 +183,7 @@
     },
     {
       "language": "English",
-      "fluency": "B2-C1",
+      "fluency": "C1 (IELTS: 8.0)",
       "icon": ""
     }
   ]

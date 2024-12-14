@@ -2,7 +2,7 @@
 layout: page
 title: protests events scraping from news
 description: I was a head of the project that was supported by the HSE University in 2022
-img: assets/img/publication_preview/all_reg_f1.jpeg
+img: assets/img/all_reg_f1.jpeg
 importance: 5
 category: just research
 related_publications: false

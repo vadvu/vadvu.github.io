@@ -1,0 +1,11 @@
+---
+layout: page
+title: methods for rare events
+description: Rare events analysis - logistic regression and alternatives
+img: assets/img/rare_sim.png
+importance: 7
+category: just research
+related_publications: false
+---
+
+The study of revolutions has long been a topic of interest to sociologists and political scientists. However, it is only in recent years that authors have begun to employ quantitative methods with greater regularity in their analysis of these events. In such studies, the dependent variable, namely revolutions or their characteristics, frequently represent a “rare event”. The most commonly used method, logistic regression, has been demonstrated by some authors to yield biased results when analysing such type of data. However, no unified standard for analysis has been established. Furthermore, authors frequently encounter additional challenges, including the analysis of panel data and the use of small sample sizes. The reliability of classical logistic regression in addressing these issues has yet to be evaluated, despite the fact that the majority of contemporary authors frequently encounter these challenges. The present study aimed to assess the bias of results produced by classical logistic regression when used in different research designs with rare events, specifically cross-sectional and panel data. Furthermore, we put forward an alternative approach, namely penalized logistic regression. In the case of cross-sectional data, the combination of a small sample size and a rare event leads to a significant bias in classical logistic regression. This result shows that researchers face the challenge of obtaining not only an inaccurate estimate of the effect but also making a false judgement about the direction of the relationship. In contrast, penalized logistic regression produces almost unbiased estimates regardless of the rarity of the event or the size of the sample. In the context of panel data, the application of classical logistic regression is not viable in scenarios characterized by a limited sample size and infrequent events. In contrast, our findings suggest that penalized logistic regression is a viable alternative for analyzing panel data, whereas conditional logistic regression is currently the only option recommended in the professional literature.
